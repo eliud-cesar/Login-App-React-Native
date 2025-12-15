@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "546376735314",
+    "project_id": "loginapp-82f20",
+    "storage_bucket": "loginapp-82f20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546376735314:android:f1c135cec2a2ff9e7d5d8b",
+        "android_client_info": {
+          "package_name": "com.uniloginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2YZ3zvSKohB2KT1S7rnMdzCIxX4ILag4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
